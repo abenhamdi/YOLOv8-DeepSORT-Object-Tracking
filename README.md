@@ -65,4 +65,14 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 
 ![](./figure/figure3.png)
 
+### Vehicles Detection, Tracking and Counting (result video)
+
+
+
+
+
+
+https://user-images.githubusercontent.com/58951594/224673961-aadf6fbb-44c7-48ef-bae5-2ea461b4ae45.mp4
+
+
 
