@@ -58,6 +58,11 @@ python predict.py model=yolov8l.pt source="test3.mp4" show=True
 
 ### RESULTS
 
+### Confusion Matrix shows us the YOLO precision model
+
+![confusion_matrix_computer_vision](https://user-images.githubusercontent.com/58951594/224691552-5dd920c3-458c-481b-90d2-5445ab2e52e0.png)
+
+
 #### Vehicles Detection, Tracking and Counting 
 ![](./figure/figure1.png)
 
